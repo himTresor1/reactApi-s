@@ -12,10 +12,10 @@ const Header = () => {
         <Typography variant="h5" className={classes.title}>
           Travel Advisor
         </Typography>
-        <Box>
-          <Typography variant="h6" className={classes.title}>
+        <Box  >
+          {/* <Typography variant="h6" className={classes.title}>
             Explore many more other places
-          </Typography>
+          </Typography> */}
           {/* <Autocomplete> */}
             <div className={classes.search}>
                 <div className={classes.searchIcon}>
